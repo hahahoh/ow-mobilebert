@@ -46,6 +46,7 @@
 | **Negative (부정)** | VADER 점수 < -0.15 이며 비추천(Down) 누른 텍스트 | "Ts is so ass", "I miss when this game had personality and wasnt corpo slop" |
 | **Neutral (중립)** | 누른 버튼과 텍스트의 감정이 불일치하는 모순 리뷰 | "i love this game do i recommend it to other? NO!", "Bought this on disk on release day on 2016..." |
 | **Irrelevant (관계없음)** | 4단어 미만의 무의미한 단답형이거나 스팸 텍스트 | "YES!", "gud" |
+
 ![4클래스 분류 그래프](./ow_4class_distribution.png)
 ### 3-2 학습 데이터 세트 구성
 4-Class 라벨링이 완료된 3,000건의 최종 데이터셋을 8:2 비율로 분할하여 텐서(Tensor) 구조의 학습 및 검증 데이터를 구성하였다.
