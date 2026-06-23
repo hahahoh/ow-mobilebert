@@ -24,7 +24,7 @@
 
 | 구분 | 게임명 | 총 유효 리뷰 수 | 긍정 비율 (Recommended) | 부정 비율 (Not Recommended) |
 |---|---|---|---|---|
-| 1 | Overwatch 2 | 22,095건 | 52.0% | 48.0% |
+| 1 | Overwatch 2 | 22,095건 | 50.8% | 49.2% |
 
 ![감성 비율 파이 차트](./ow_sentiment_pie.png)
 
